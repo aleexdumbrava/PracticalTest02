@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PracticalTest02MainActivity</string>
+    <string name="servertextview">serverTextView</string>
+    <string name="serverport">serverPort</string>
+    <string name="connectbutton">connectButton</string>
+    <string name="clienttextview">clientTextView</string>
+    <string name="clientaddress">clientAddress</string>
+    <string name="clientport">clientPort</string>
+    <string name="clientword">clientWord</string>
+    <string name="send_request">Send Request</string>
+    <string name="client">Client</string>
+    <string name="server">Server</string>
+</resources>
